@@ -36,4 +36,3 @@ export const TimesCircleIcon = createIcon(TimesCircleSVG);
 export const TimesIcon = createIcon(TimesSVG);
 export const ToggleOffIcon = createIcon(ToggleOffSVG);
 export const ToggleOnIcon = createIcon(ToggleOnSVG);
-11
